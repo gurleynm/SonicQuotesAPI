@@ -13,7 +13,7 @@ namespace SonicQuotesAPI.SQLHelper
             {
                 SqlConnectionStringBuilder builder = new SqlConnectionStringBuilder();
 
-                builder.DataSource = "gurleyguy.mynetgear.com,1433";
+                builder.DataSource = "localhost,1433";
                 builder.UserID = "Sonic";
                 builder.Password = "GroguB0mb";
                 builder.InitialCatalog = "QuotesDB";
