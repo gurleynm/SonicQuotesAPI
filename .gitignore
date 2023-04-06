@@ -1,0 +1,6 @@
+.vs/
+bin/
+obj/
+.config/dotnet-tools.json
+*.v2
+*.1
